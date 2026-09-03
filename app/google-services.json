@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476581282083",
+    "project_id": "comato-a4ae0",
+    "storage_bucket": "comato-a4ae0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476581282083:android:465b7f0f947e8a3c130c96",
+        "android_client_info": {
+          "package_name": "com.yugix.comato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476581282083-emh766jh72kprkpekg1pu3gbope4c23r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN9dksemJg6bMd-GDe2E9nGKXFN2_rXE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476581282083-emh766jh72kprkpekg1pu3gbope4c23r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
